@@ -1,4 +1,4 @@
-# 🚗 Map Navigator - Shortest Path Finder using Dijkstra's Algorithm         
+# 🚗 Map Navigator - Shortest Path Finder using Dijkstra's Algorithm              
 
 A C++ application that simulates a map-based navigation system using **Dijkstra's Algorithm** to find the shortest path between nodes (locations) in a graph.
 
